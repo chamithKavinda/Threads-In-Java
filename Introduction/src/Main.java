@@ -1,6 +1,11 @@
-
+class MyThread extends Thread{
+    public void run(){
+        System.out.println("My First Thread");
+    }
+}
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        MyThread myThread = new MyThread();
+        myThread.start();
     }
 }

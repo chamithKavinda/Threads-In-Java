@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" filepath="$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" filepath="$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runnable-Interfaces/Runnable-Interfaces.iml" filepath="$PROJECT_DIR$/Runnable-Interfaces/Runnable-Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads.iml" filepath="$PROJECT_DIR$/Threads.iml" />
     </modules>
   </component>

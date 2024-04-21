@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" filepath="$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inter-Thread-Comunication/Inter-Thread-Comunication.iml" filepath="$PROJECT_DIR$/Inter-Thread-Comunication/Inter-Thread-Comunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Join-isAlive/Join-isAlive.iml" filepath="$PROJECT_DIR$/Join-isAlive/Join-isAlive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" filepath="$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" />

@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" filepath="$PROJECT_DIR$/Lamda-Expression/Lamda-Expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Runnable-Interfaces/Runnable-Interfaces.iml" filepath="$PROJECT_DIR$/Runnable-Interfaces/Runnable-Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronized-Keyword/Synchronized-Keyword.iml" filepath="$PROJECT_DIR$/Synchronized-Keyword/Synchronized-Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread-Piority/Thread-Piority.iml" filepath="$PROJECT_DIR$/Thread-Piority/Thread-Piority.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads.iml" filepath="$PROJECT_DIR$/Threads.iml" />
     </modules>
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" filepath="$PROJECT_DIR$/Extends-Thread-Class/Extends-Thread-Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads.iml" filepath="$PROJECT_DIR$/Threads.iml" />
     </modules>
